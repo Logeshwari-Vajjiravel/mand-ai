@@ -1,7 +1,9 @@
-# React
-
-A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
-
+# Mand AI | Localized Generative AI for Small Businesses
+MandAI is a revolutionary SaaS-based generative AI platform that enables small Indian businesses to create
+culturally-relevant marketing content in local languages—ranging from ads and social media posts to product
+descriptions—while offering vernacular voice input, ready-to-use templates, one-click publishing, and
+analytics to make digital promotion faster, affordable, and impactful.
+Tools used: ReactJS, TailwindCSS, FastAPI, Node.js, Hugging Face, MongoDB, PostgreSQL, AWS/GCP.
 ## 🚀 Features
 
 - **React 18** - React version with improved rendering and concurrent features
